@@ -1,1 +1,10 @@
 c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\bin\Debug\hands-on-3-072315.exe.config
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands_on_3_072315.billing.resources
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands_on_3_072315.Resources.resources
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands-on-3-072315.vbproj.GenerateResource.Cache
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\bin\Debug\hands-on-3-072315.exe
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\bin\Debug\hands-on-3-072315.pdb
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\bin\Debug\hands-on-3-072315.xml
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands-on-3-072315.exe
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands-on-3-072315.xml
+c:\users\jayson\documents\visual studio 2013\Projects\hands-on-3-072315\hands-on-3-072315\obj\Debug\hands-on-3-072315.pdb
